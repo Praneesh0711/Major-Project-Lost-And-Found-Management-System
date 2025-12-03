@@ -18,33 +18,32 @@ The project is completely modular, file-driven, and follows all guidelines from 
 
 ---
 
-## 📁 Project Structure
 /
-├── src/
-│   ├── main.c
-│   ├── utils.c
-│   ├── lost.c
-│   ├── found.c
-│   ├── fileops.c
-│   ├── match.c
-│   └── report.c
-│
-├── include/
-│   ├── utils.h
-│   ├── lost.h
-│   ├── found.h
-│   ├── fileops.h
-│   ├── match.h
-│   └── report.h
-│
-├── docs/
-│   └── ProjectReport.pdf
-│
-├── assets/
-│   └── screenshots/
-│
-├── sample_input.txt
-└── README.md
+- src/
+src/main.c
+src/utils.c
+src/lost.c
+src/found.c
+src/fileops.c
+src/match.c
+src/report.c
+
+- include/
+include/utils.h
+include/lost.h
+include/found.h
+include/fileops.h
+include/match.h
+include/report.h
+
+- docs/
+docs/ProjectReport.pdf
+
+- assets/
+assets/screenshots/
+
+sample_input.txt
+- README.md
 
 
 
